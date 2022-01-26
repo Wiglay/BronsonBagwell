@@ -8,7 +8,6 @@
 - Currently working on several personal projects in order to become more proficient in essential data analysis and science tools.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
-Check out my website: Click [Here](https://bronson-bagwell.webflow.io)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=BronsonBagwell)
 
